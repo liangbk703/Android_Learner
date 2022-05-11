@@ -7,6 +7,8 @@ Android成长笔记
 
 java hashmap https://www.jianshu.com/p/dde9b12343c1
 
+java LinkedHashMap https://www.jianshu.com/p/8f4f58b4b8ab
+
 红黑树 https://blog.csdn.net/u011240877/article/details/53329023
 
 红黑树 https://blog.csdn.net/21aspnet/article/details/88939297
