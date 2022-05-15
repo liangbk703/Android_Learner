@@ -83,8 +83,12 @@ binder https://zhuanlan.zhihu.com/p/35519585
 wms https://wizardforcel.gitbooks.io/deepin-android-vol3/content/4.html
 
 ams  https://zhuanlan.zhihu.com/p/86266649
+
 5、handler
+
 handler postdelay 解读 https://zhuanlan.zhihu.com/p/260661053#:~:text=%E8%BF%99%E9%87%8C%E6%88%91%E4%BB%AC%E4%B8%BB%E8%A6%81%E6%9D%A5%E5%85%B3%E6%B3%A8%E6%9C%80%E5%90%8E%E4%B8%80%E7%A7%8D%E6%96%B9%E6%B3%95%EF%BC%8C%E4%BD%BF%E7%94%A8%20Handler%E7%9A%84postDelayed%20%E6%96%B9%E6%B3%95%E6%9D%A5%E5%A4%84%E7%90%86%E5%BB%B6%E6%97%B6%EF%BC%9A%20new%20Handler%28%29.postDelayed%28new%20Runnable%28%29%20%7B%20%40Override,%7B%20%2F%2F%E5%BB%B6%E6%97%B6%E5%88%B0%E4%BA%86%E7%9A%84%E6%93%8D%E4%BD%9C%20%7D%20%7D%2C%201000%29%3B%2F%2F%E6%AF%AB%E7%A7%92%20%E8%BF%99%E9%87%8C%E5%B0%B1%E5%BE%88%E7%AE%80%E5%8D%95%E7%9A%84%E5%AE%9E%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AA%201%E7%A7%92%20%E7%9A%84%E5%BB%B6%E6%97%B6%EF%BC%8C%E4%B8%94%E4%B8%8D%E4%BC%9A%E9%98%BB%E5%A1%9E%E4%B8%BB%E7%BA%BF%E7%A8%8B%E3%80%82
+
+handler nativepoll https://www.cnblogs.com/jiy-for-you/p/11707356.html#:~:text=nativePollOnce%E5%92%8C%20nativeWake%E7%9A%84%E6%A0%B8%E5%BF%83%E9%AD%94%E6%9C%AF%E5%8F%91%E7%94%9F%E5%9C%A8%20native%20%E4%BB%A3%E7%A0%81%E4%B8%AD.%20native%20MessageQueue%E5%88%A9%E7%94%A8%E5%90%8D%E4%B8%BA%20epoll%E7%9A%84%20Linux,%E4%BA%8B%E4%BB%B6.%20nativePollOnce%E5%9C%A8%E6%9F%90%E4%B8%AA%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6%E4%B8%8A%E8%B0%83%E7%94%A8%20epoll_wait%2C%20%E8%80%8C%20nativeWake%E5%86%99%E5%85%A5%E4%B8%80%E4%B8%AA%20IO%20%E6%93%8D%E4%BD%9C%E5%88%B0%E6%8F%8F%E8%BF%B0%E7%AC%A6%2C%20epoll_wait%E7%AD%89%E5%BE%85.
 
 6、性能优化和架构
 
