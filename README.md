@@ -83,8 +83,10 @@ binder https://zhuanlan.zhihu.com/p/35519585
 wms https://wizardforcel.gitbooks.io/deepin-android-vol3/content/4.html
 
 ams  https://zhuanlan.zhihu.com/p/86266649
+5、handler
+handler postdelay 解读 https://zhuanlan.zhihu.com/p/260661053#:~:text=%E8%BF%99%E9%87%8C%E6%88%91%E4%BB%AC%E4%B8%BB%E8%A6%81%E6%9D%A5%E5%85%B3%E6%B3%A8%E6%9C%80%E5%90%8E%E4%B8%80%E7%A7%8D%E6%96%B9%E6%B3%95%EF%BC%8C%E4%BD%BF%E7%94%A8%20Handler%E7%9A%84postDelayed%20%E6%96%B9%E6%B3%95%E6%9D%A5%E5%A4%84%E7%90%86%E5%BB%B6%E6%97%B6%EF%BC%9A%20new%20Handler%28%29.postDelayed%28new%20Runnable%28%29%20%7B%20%40Override,%7B%20%2F%2F%E5%BB%B6%E6%97%B6%E5%88%B0%E4%BA%86%E7%9A%84%E6%93%8D%E4%BD%9C%20%7D%20%7D%2C%201000%29%3B%2F%2F%E6%AF%AB%E7%A7%92%20%E8%BF%99%E9%87%8C%E5%B0%B1%E5%BE%88%E7%AE%80%E5%8D%95%E7%9A%84%E5%AE%9E%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AA%201%E7%A7%92%20%E7%9A%84%E5%BB%B6%E6%97%B6%EF%BC%8C%E4%B8%94%E4%B8%8D%E4%BC%9A%E9%98%BB%E5%A1%9E%E4%B8%BB%E7%BA%BF%E7%A8%8B%E3%80%82
 
-5、性能优化和架构
+6、性能优化和架构
 
 Android 性能优化 https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98/Android%E9%AB%98%E7%BA%A7%E9%9D%A2%E8%AF%95%E9%A2%98.md
 
