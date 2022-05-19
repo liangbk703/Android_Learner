@@ -56,6 +56,10 @@ jni 内存 https://www.jianshu.com/p/d77ffc785303
 
 jni内存管理 https://juejin.cn/post/6844903743352209422
 
+6、Java源码解读
+
+Java全栈知识体系  https://pdai.tech/md/java/thread/java-thread-x-juc-executor-ThreadPoolExecutor.html
+
 二、Android
 
 1、view体系
