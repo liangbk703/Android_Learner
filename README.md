@@ -84,6 +84,8 @@ binder https://zhuanlan.zhihu.com/p/35519585
 
 图片压缩方法  https://blog.csdn.net/qq_30379689/article/details/78884167
 
+图片所占内存大小的计算  https://juejin.cn/post/6844903693230276616
+
 4、framework解读
 
 wms https://wizardforcel.gitbooks.io/deepin-android-vol3/content/4.html
