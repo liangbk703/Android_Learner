@@ -104,6 +104,8 @@ Android 性能优化 https://github.com/Timdk857/Android-Architecture-knowledge-
 
 组件化通讯 https://www.jianshu.com/p/9cf03cff0f0f
 
+anr问题分析 https://www.jianshu.com/p/388166988cef
+
 三、三方框架
 
 1、okhttp
