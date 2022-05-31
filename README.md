@@ -48,6 +48,8 @@ java 引用 https://juejin.cn/post/6844903440682844174
 
 jvm 内存https://www.huaweicloud.com/articles/4799df506d5b9ae8bd0a5cb5247723b5.html
 
+jvm内存理解 https://blog.csdn.net/weixin_43059299/article/details/117021932?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-117021932-blog-51204001.pc_relevant_antiscanv3&spm=1001.2101.3001.4242.3&utm_relevant_index=7
+
 4、注解
 
 apt https://www.jianshu.com/p/9616f4a462bd
