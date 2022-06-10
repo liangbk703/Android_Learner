@@ -112,6 +112,10 @@ Android 性能优化 https://github.com/Timdk857/Android-Architecture-knowledge-
 
 anr问题分析 https://www.jianshu.com/p/388166988cef
 
+7、设计模式
+
+23种源码设计模式  https://www.jianshu.com/p/b2d62447c9ea
+
 三、三方框架
 
 1、okhttp
